@@ -1,0 +1,119 @@
+.obj
+{
+    font-size: 16px; /* Approximately 12pt in most cases */
+    font-family:Cambria, serif;
+    background-color: #A8C3E5;
+    
+}
+.Header
+{
+  margin-left: 5%;
+  font-family:Cambria, serif;
+  font-size: 15px;
+
+}
+.sri
+{
+    font-size: 37.33px;
+}
+.full {
+    width: 8.5in; /* For letter-sized page (8.5 inches wide) */
+    min-height: 217vh; /* Ensure the container takes up at least the full viewport height */
+    margin-left: 22%;
+    
+    padding: 20px; /* Add padding as needed */
+    box-sizing: border-box; /* Include padding in element dimensions */
+    position: relative;
+    
+  }
+  
+  .line {
+    position: absolute;
+    left: 55px;
+    right: 300px;
+    top: 160px;
+   
+    width: 85%; /* Set a width for the line */
+    
+}
+.objective
+{
+  position: absolute;
+  font-size: 16px;
+  font-family:Cambria, serif;
+  top: 200px;
+  left: 55px;
+  width: 85%;
+}
+.educational_qualification
+{
+  position: absolute;
+  top: 305px;
+  left: 55px;
+  width: 85%;
+  font-size: 16px;
+  font-family:Cambria, serif;
+}
+.table
+{
+  width: 17.69cm;
+  height: 9.73cm;
+}
+.technical_skills
+{
+  
+  position: absolute;
+  top: 726px;
+  
+  left: 55px;
+  width: 85%;
+  font-size: 16px;
+  font-family:Cambria, serif;
+}
+.project
+{
+  position: absolute;
+  top: 950px;
+  left: 55px;
+  width: 85%;
+  font-size: 16px;
+  font-family:Cambria, serif;
+}
+.certificates
+{
+  position: absolute;
+  top: 1108px;
+  left: 55px;
+  width: 85%;
+  font-size: 16px;
+  font-family:Cambria, serif;
+}
+.declaration
+{
+  position: absolute;
+  top: 1315px;
+  left: 55px;
+  width: 85%;
+  font-size: 16px;
+  font-family:Cambria, serif;
+
+
+}
+.last
+{
+  position: absolute;
+  font-size: 16px;
+  font-family:Cambria, serif;
+  top: 1422px;
+  right: 165px;
+}
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+td{
+  text-align: center;
+}
+table tr:nth-child(even) {
+  background-color: #A8C3E5; /* White, or your preferred background color */
+}
