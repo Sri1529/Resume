@@ -27,15 +27,19 @@
     
   }
   
-  .line {
-    position: absolute;
+
+.black-line {
+  border-bottom: 2px solid black; /* Add a black bottom border with 1px thickness */
+  position: absolute;
     left: 55px;
     right: 300px;
-    top: 160px;
+    top: 172px;
    
-    width: 85%; /* Set a width for the line */
-    
+    width: 85%;
+  height: 1px; /* Set the desired height for your empty line */
+  margin: 10px 0; /* Adjust the margin as needed to control spacing */
 }
+
 .objective
 {
   position: absolute;

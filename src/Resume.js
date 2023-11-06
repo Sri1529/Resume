@@ -11,9 +11,8 @@ export function Resume()
 | <b>LinkedIn:</b> <a href="https://www.linkedin.com/in/sri-hari-17b755204">linkedin.com/in/sri-hari-17b755204</a>
 </p>
             </div>
-            <div className="line">
-            <h1  style={{width:"100%" , height:"2px",backgroundColor:"black"}}></h1>
-            </div>
+            <div class="black-line"></div>
+
             
             <div class="objective">
             <p className="obj"><b>OBJECTIVE</b></p>
